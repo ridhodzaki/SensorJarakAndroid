@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "807657276258",
+    "firebase_url": "https://projectskateboards-81656-default-rtdb.firebaseio.com",
+    "project_id": "projectskateboards-81656",
+    "storage_bucket": "projectskateboards-81656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807657276258:android:213d8b1242148ff070a23b",
+        "android_client_info": {
+          "package_name": "com.example.aplicationsencorjarak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807657276258-l81bdoeiunpfe8464p24niamvia5cpt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeM2T1T6sPhcUWsksY0O_V-GEbOGr3Vx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807657276258-l81bdoeiunpfe8464p24niamvia5cpt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807657276258:android:7475cf7980d58f4270a23b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807657276258-l81bdoeiunpfe8464p24niamvia5cpt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeM2T1T6sPhcUWsksY0O_V-GEbOGr3Vx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807657276258-l81bdoeiunpfe8464p24niamvia5cpt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807657276258:android:b9b406d6cf8cd3ee70a23b",
+        "android_client_info": {
+          "package_name": "com.example.sensorjarak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807657276258-l81bdoeiunpfe8464p24niamvia5cpt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeM2T1T6sPhcUWsksY0O_V-GEbOGr3Vx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807657276258-l81bdoeiunpfe8464p24niamvia5cpt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
