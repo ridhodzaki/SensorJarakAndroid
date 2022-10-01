@@ -14,7 +14,9 @@ class MainActivity : AppCompatActivity() {
 
         // Write a message to the database
         val database = Firebase.database
-        val myRef = database.getReference("test/range")
+        val myRef = database.getReference("message")
+
+        myRef.setValue(0)
 
 
 
